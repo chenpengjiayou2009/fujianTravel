@@ -1,19 +1,4 @@
 
-<head>
-<style>
-.gif {
-  width:600;
-  height:300;
-  display: inline;
-}
-
-.logo {
-width:100;
-height:50;
-}
-
-</style>
-</head>
 <p> <font color="red"> 注: 该文件需要与同一文件夹内的gif文件夹和static文件夹一同打开才可渲染图片，请勿单独移动该html文件 </font> </p>
 <h2>成果展示</h2>
 <font color="brown"> <h2> 您可以直接访问 <a href="https://www.fujiantravel.co/"> https://www.fujiantravel.co/ </a> 以获得直观的体验 </h2> </font>
