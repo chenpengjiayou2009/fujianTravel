@@ -4,13 +4,15 @@
 <font color="brown"> <h2> 您可以直接访问 <a href="https://www.fujiantravel.co/"> https://www.fujiantravel.co/ </a> 以获得直观的体验 </h2> </font>
 <p>
 <h3>1.主页展示</h3>
-<img src="./gif/home.gif" width=600 height=300 display="inline">
+<img src="./gif/home.gif" width=600 height=300 display="inline"><br>
+<br> 图1 主页展示</br>
 <br>主要功能<br>
 1. 展示福建省宣传视频(视频来源: 福建省文化和旅游厅) <br>
 2. 展示城市历史人文介绍(博客形式)<br>
 
 <h3>2. 城市宣传</h3>
-<img src="./gif/cities.gif" width=600 height=300 display="inline">
+<img src="./gif/cities.gif" width=600 height=300 display="inline"><br>
+<br> 图2 城市宣传 </br>
 <br>主要功能<br>
 1. 介绍各个主要福建沿海城市美食美景<br>
 2. 实时天气数据及天气预报渲染，宣传福建四季宜人的特色。<br>
@@ -56,13 +58,15 @@
 
 <h3>3.城市历史人文介绍</h3>
 <img src="./gif/blog.gif"/ width=600 height=300 display="inline"><br>
+<br> 图3 城市博文介绍</br>
 主要功能:<br>
 1)	博客式介绍，可进行留言<br>
 2)	实时推荐最新博文或相关博文<br>
 3)	点赞数和浏览数记录，进行相关城市热度排名。<br>
 
 <h3> 4. 旅馆推介</h3>
-<img src="./gif/hotels.gif" width=600 height=300 display="inline">
+<img src="./gif/hotels.gif" width=600 height=300 display="inline"><br>
+<br> 图4 旅馆推介</br>
 <br>主要功能:<br>
 1)	交互式展示<br>
 用户可通过按钮点选对应城市得到相应的旅馆推荐。<br>
@@ -73,8 +77,9 @@
 可以直接链接到旅馆页面，为当地旅店吸引流量，创造收益。<br>
 
 
-<h3>论坛</h3>
+<h3>5. 论坛</h3>
 <img src="./gif/forum.gif" width=600 height=300 display="inline"/><br>
+<br>图5 论坛页面</br>
 可以查看所有留言并进行评论或点赞<br>
 可以发布留言<br>
 可以设置账号信息，关注和被关注<br>
@@ -83,11 +88,15 @@
 <h3>用户管理</h3>
 <br>用户登录和注册<br>
 设置用户名等信息<br>
-<h3>网页访客地址统计</h3>
-<img src="./static/traffic.jpg" width=600 height=300 display="inline"/>
 
-<h3>5.问卷调查</h3>
-<img src="./gif/quiz.gif" width=600 height=300 display="inline">
+<h3>6. 网页访客地址统计</h3>
+<img src="./static/traffic.jpg" width=600 height=300 display="inline"/><br>
+<br>图6 访客地址统计</br>
+可以查看访问该网页的访客的IP地址分布以及数量，直观感受宣传网页所能带来的世界范围宣传效果。
+
+<h3>7. 问卷调查</h3>
+<img src="./gif/quiz.gif" width=600 height=300 display="inline"><br>
+<br>图7 问卷调查</br>
 
 <br>包含以下问题<br>
 1)	您认为我们的网页如何？<br>
@@ -107,7 +116,9 @@
 <a href="https://greatbarrierreef.org/">澳大利亚大堡礁</a><br>
 <a href="https://www.gohawaii.com/">美国夏威夷</a>
 <br>例如印尼巴厘岛的官方网站中不仅有丰富的多媒体资源，更有有关旅行的签证，旅馆，旅行社和商店的推介。带动当地旅游产业的蓬勃发展<br>
-<img width=600 height=300 display="inline" src="./gif/bahli.gif"/>
+<img width=600 height=300 display="inline" src="./gif/bahli.gif"/><br>
+<br>图8 印尼巴厘岛宣传网页</br>
+作为不输上述自然风光的福建海洋文旅产业也需要交互良好，界面美观的网页来展示福建沿海丰富的旅行资源。
 <h2>创意理念</h2>
 <p>
 以福建海洋文旅为核心的全方面多媒体旅游形象展示网页。丰富的交互体验，详尽的英文介绍可以给游客留下深刻的印象。介绍不仅包含历史背景，还包括了美景美食等广大年轻人喜闻乐见的旅行内容，交互式的旅馆推介可以给当地的旅游业经营带来直接的经济效益 。
@@ -130,11 +141,20 @@ Velo 前端语言<br>
 <h3> 安全技术 </h3>
 HTTPS传输协议<br>
   该网域所传输的数据均采用Https协议，使用加密算法进行加密，用户可以无需担心数据隐私的泄露。<br>
-  同时使用了Qualys SSL Server Test工具进行网页的安全测评，得到如下报告,证明该网页的安全协议和加密算法均为较好的选择。<br>
-  <img src="./static/sec_report.jpg" width=600 height=300 display="inline"/>
+  同时使用了Qualys SSL Server Test工具进行网页的安全测评，得到如下报告,证明该网页的安全协议和加密算法均为较好的选, 不存在明显的安全漏洞。<br>
+  <img src="./static/sec_report.jpg" width=600 height=300 display="inline"/><br>
+  <br>图9 qualys SSL Server Test测评报告</br>
  
 <h3> 网络技术 </h3>
   云服务厂商采用了CDN服务，实现负载均衡，令世界各地的用户都可以就近访问该网页。该页面分配带宽为500MB<br>
+  同时我们也测评了不同的IP地址访问该网页的延迟情况。
+  <img src="./static/EuropeLatency.jpg" width=600 height=300 /><br>
+  <br>图10 欧洲访问延时情况</br>
+  <img src="./static/USALatency.jpg" width=600 height=300 /><br>
+  <br>图11 美国访问延时情况</br>
+  <img src="./static/JapanLatency.jpg" width=600 height=300/><br>
+  <br>图12 日本访问延时情况</br>
+  可以看到世界各地与该页面的连接情况都较好。可以稳定地进行访问。
 </p>
 
 <h2>商业模式</h2>
