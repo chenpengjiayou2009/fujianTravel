@@ -132,10 +132,10 @@ height:50;
 <p>
 <h3> 功能技术 </h3>
 Wix 建站工具<br>
-<img src="./static/wixLogo.jpg" class="logo"/><br>
+<img src="./static/wixLogo.jpg" width=100 height=50/><br>
   Wix是创始于以色列的网页设计工具。包含了一些网页建设模板以及丰富的交互功能。<br>
 Velo 前端语言<br>
-<img src="./static/veloLogo.jpg" class="logo"/><br>
+<img src="./static/veloLogo.jpg" width=100 height=50/><br>
   Velo是和Wix工具配套的前端编程语言，通过Velo可以得到诸如按钮的交互，实时数据的渲染等功能。能更好地发挥技术人员的专长，设计更加个性化的功能和网页。<br>
 云部署<br>
   无需实体服务器即可实现网页的云部署，域名为fujiantravel.co, 方便易记，部署于海外云端，海外用户访问速度更快。<br>
