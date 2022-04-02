@@ -191,14 +191,14 @@ HTTPS传输协议<br>
 有了一定数量的用户访问数据之后进行以人工智能为基础的推荐系统建设，根据用户偏好进行旅行目的地，餐厅，旅馆的推荐。<br>
 </p>
 <h2>鸣谢</h2>
-<img src="./static/数字中国.jpg" width=100 height=50/><br>
-数字中国建设峰会<br>
-<img src="./static/dcic.jpg" width=100 height=50/><br>
-DCIC数字中国创新大赛<br>
-<img src="./static/fujian gov.jpg" width=100 height=50/><br>
-福建省人民政府
-<img src="./static/college-logo1.png" width=100 height=50/><br>
-福建工程学院
+<img src="./static/数字中国.jpg" width=100 height=50/>
+<br>数字中国建设峰会<br>
+<img src="./static/dcic.jpg" width=100 height=50/>
+<br>DCIC数字中国创新大赛<br>
+<img src="./static/fujian gov.jpg" width=100 height=50/>
+<br>福建省人民政府<br>
+<img src="./static/college-logo1.png" width=100 height=50/>
+<br>福建工程学院<br>
 <h2>团队成员</h2>
 <p>
 陈鹏<br>
