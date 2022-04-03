@@ -80,7 +80,7 @@
 <h3>5. 论坛</h3>
 <img src="./gif/forum.gif" width=600 height=300 display="inline"/><br>
 <br>图5 论坛页面<br>
-可以查看所有留言并进行评论或点赞<br>
+<br>可以查看所有留言并进行评论或点赞<br>
 可以发布留言<br>
 可以设置账号信息，关注和被关注<br>
 可以搜索留言<br>
@@ -134,10 +134,10 @@
 <p>
 <h3> 功能技术 </h3>
 Wix 建站工具<br>
-<img src="./static/wixLogo.jpg" width=100 height=50/><br>
+<img src="./static/wixLogo.jpg" width=100 height=50/>
   Wix是创始于以色列的网页设计工具。包含了一些网页建设模板以及丰富的交互功能。<br>
 Velo 前端语言<br>
-<img src="./static/veloLogo.jpg" width=100 height=50/><br>
+<img src="./static/veloLogo.jpg" width=100 height=50/>
   Velo是和Wix工具配套的前端编程语言，通过Velo可以得到诸如按钮的交互，实时数据的渲染等功能。能更好地发挥技术人员的专长，设计更加个性化的功能和网页。<br>
 云部署<br>
   无需实体服务器即可实现网页的云部署，域名为fujiantravel.co, 方便易记，部署于海外云端，海外用户访问速度更快。<br>
@@ -154,13 +154,13 @@ HTTPS传输协议<br>
 <h3> 网络技术 </h3>
   云服务厂商采用了CDN服务，实现负载均衡，令世界各地的用户都可以就近访问该网页。该页面分配带宽为500MB<br>
   同时我们也测评了不同的IP地址访问该网页的延迟情况。
-  <img src="./static/EuropeLatency.jpg" width=600 height=300 /><br>
+  <img src="./static/EuropeLatency.jpg" width=600 height=300 />
   <br>图10 欧洲访问延时情况<br>
   <br>
-  <img src="./static/USALatency.jpg" width=600 height=300 /><br>
+  <img src="./static/USALatency.jpg" width=600 height=300 />
   <br>图11 美国访问延时情况<br>
   <br>
-  <img src="./static/JapanLatency.jpg" width=600 height=300/><br>
+  <img src="./static/JapanLatency.jpg" width=600 height=300/>
   <br>图12 日本访问延时情况<br>
   <br>
   可以看到世界各地与该页面的连接情况都较好。可以稳定地进行访问。<br>
@@ -189,15 +189,16 @@ HTTPS传输协议<br>
 将该网页纳入搜索引擎，用户通过搜索引擎搜寻”fujian travel“等关键字就可以得到该页面。<br>
 将航班和航程纳入网站页面展示，方便用户直观查询，便于用户做出出游决策。<br>
 有了一定数量的用户访问数据之后进行以人工智能为基础的推荐系统建设，根据用户偏好进行旅行目的地，餐厅，旅馆的推荐。<br>
+引入广告展位，不仅推荐当地旅游资源，也能通过广告为网页带来收入。<br>
 </p>
 <h2>鸣谢</h2>
 <img src="./static/数字中国.jpg" width=100 height=50/>
 数字中国建设峰会<br>
-<img src="./static/dcic.jpg" width=100 height=50/>
+<br><img src="./static/dcic.jpg" width=150 height=50/>
 DCIC数字中国创新大赛<br>
-<img src="./static/fujian gov.jpg" width=100 height=50/>
+<br><img src="./static/fujian gov.jpg" width=150 height=50/>
 福建省人民政府<br>
-<img src="./static/college-logo1.png" width=100 height=50/>
+<br><img src="./static/college-logo1.png" width=150 height=50/>
 福建工程学院<br>
 <h2>团队成员</h2>
 <p>
